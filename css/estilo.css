@@ -1,0 +1,26 @@
+body{
+    background-color: blue;
+}
+
+header{
+    background-color: darkkhaki;
+    text-align: center;
+}
+
+.banner{
+    width: 100%;
+}
+
+.conteiner{
+    width: 80%;
+    margin: auto;
+}
+
+footer{
+    background-color: darkkhaki;
+    margin: auto;
+}
+
+.conteiner{
+    background-color: darkkhaki;
+}
